@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+
+header {
+  width: 90%;
+  padding: 15px 0;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+}
+
+.social i {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.social {
+  position: absolute;
+  top: 22px;
+  right: 22px;
+}
